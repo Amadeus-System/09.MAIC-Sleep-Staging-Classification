@@ -1,6 +1,8 @@
 # 09.MAIC-Sleep-Staging-Classification
 Repository for my experience for MAIC Sleep Staging Classification contest
 
+![대회 포스터](https://drive.google.com/uc?export=view&id=1CJEuGnUUB9TFWN8wUPBE4Q0gCuEPvSPu)
+
 ## 느낀 점
 이번 대회는 MAIC 및 서울대학교 병원에서 주최하는 수면 단계 분류 대회였다.
 
